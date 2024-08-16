@@ -1,1 +1,1 @@
-
+This folder contains demonstrations of SQL usage for extracting valuable business insights that enabled decision-making for various business challenges and case studies I've worked on in my professional career
