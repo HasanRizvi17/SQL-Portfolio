@@ -19,16 +19,16 @@
 
 | **Challenge Name**         | **Description**                         |    **Company**        | **Link to Solution** | **Link to Question** |
 |----------------------------|-----------------------------------------|-----------------------|----------------------|----------------------|
-| Card Launch Success |  | Facebook |  | link |
-| Compressed Mode |  | Facebook |  | link |
-| Highest Grossing Items |  | Facebook |  | link |
-| Odd and Even Measurements |  | Facebook |  | link |
-| Seconf Highest Salary |  | Facebook |   | link |
-| Sending vs. Opening Snaps |  | Facebook |  | link |
-| Signup Activation Rate |  | Facebook |  | link |
-| Supercloud Customer |  | Facebook |  | link |
-| Top Three Salaries |  | Facebook |  | link |
-| Tweets' Rolling Averages |  | Facebook |  | link |
-| User's Third Transaction |  | Facebook |  | link |
+| Highest Grossing Items |  | Amazon |  | link |
+| Odd and Even Measurements |  | Google |  | link |
+| Second Highest Salary |  | FAANG |   | link |
+| Top Three Salaries |  | FAANG |  | link |
+| Supercloud Customer |  | Microsoft |  | link |
+| Tweets' Rolling Averages |  | Twitter |  | link |
+| Signup Activation Rate |  | TikTok |  | link |
+| Sending vs. Opening Snaps |  | Snapchat |  | link |
+| Compressed Mode |  | Alibaba |  | link |
+| User's Third Transaction |  | Uber |  | link |
+| Card Launch Success |  | JPMorgan Chase |  | link |
 
 
