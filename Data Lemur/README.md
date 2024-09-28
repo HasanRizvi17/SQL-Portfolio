@@ -5,14 +5,14 @@
 
 | **Challenge Name**         | **Description**                         |    **Company**        | **Link to Solution** | **Link to Question** |
 |----------------------------|-----------------------------------------|-----------------------|----------------------|----------------------|
-| Active User Retention |  | Facebook |  | [link](https://datalemur.com/questions/user-retention) |
-| Advertiser Status |  | Facebook |  | [link](https://datalemur.com/questions/updated-status) |
-| Department vs. Company Salary |  | FAANG |  | [link](https://datalemur.com/questions/sql-department-company-salary-comparison) |
-| Median Google Search Frequency |  | Google |  | [link](https://datalemur.com/questions/median-search-freq) |
-| Server Utilization Time |  | Amazon |  | [link](https://datalemur.com/questions/total-utilization-time) |
-| 3-Topping Pizzas |  | McKinsey |  | [link](https://datalemur.com/questions/pizzas-topping-cost) |
-| Repeated Payments |  | Stripe |  | [link](https://datalemur.com/questions/repeated-payments) |
-| Y-on-Y Growth Rate |  | Wayfair |  | [link](https://datalemur.com/questions/yoy-growth-rate) |
+| Active User Retention | Assume you're given a table containing information on Facebook user actions. Write a query to obtain number of monthly active users (MAUs) in July 2022, including the month in numerical format "1, 2, 3" (an active user is defined as a user who has performed actions such as 'sign-in', 'like', or 'comment' in both the current month and the previous month) | Facebook |  | [link](https://datalemur.com/questions/user-retention) |
+| Advertiser Status | You're provided with two tables: the advertiser table contains information about advertisers and their respective payment status, and the daily_pay table contains the current payment information for advertisers, and it only includes advertisers who have made payments. Write a query to update the payment status of Facebook advertisers based on the information in the daily_pay table. | Facebook |  | [link](https://datalemur.com/questions/updated-status) |
+| Department vs. Company Salary | Write a query to compare the average salary of employees in each department to the company's average salary for March 2024. Return the comparison result as 'higher', 'lower', or 'same' for each department. Display the department ID, payment month (in MM-YYYY format), and the comparison result. | FAANG |  | [link](https://datalemur.com/questions/sql-department-company-salary-comparison) |
+| Median Google Search Frequency | You have access to the summary table which tells you the number of searches made last year and how many Google users fall into that bucket. Write a query to report the median of searches made by a user. | Google |  | [link](https://datalemur.com/questions/median-search-freq) |
+| Server Utilization Time | Write a query that calculates the total time that the fleet of servers was running. Assumptions: (1) Each server might start and stop several times, (2) The total time in which the server fleet is running can be calculated as the sum of each server's uptime. | Amazon |  | [link](https://datalemur.com/questions/total-utilization-time) |
+| 3-Topping Pizzas | Given a list of pizza toppings, consider all the possible 3-topping pizzas, and print out the total cost of those 3 toppings. Sort the results with the highest total cost on the top followed by pizza toppings in ascending order. Break ties by listing the ingredients in alphabetical order, starting from the first ingredient, followed by the second and third. | McKinsey |  | [link](https://datalemur.com/questions/pizzas-topping-cost) |
+| Repeated Payments | Sometimes, payment transactions are repeated by accident; it could be due to user error, API failure or a retry error that causes a credit card to be charged twice. Using the transactions table, identify any payments made at the same merchant with the same credit card for the same amount within 10 minutes of each other. Count such repeated payments. | Stripe |  | [link](https://datalemur.com/questions/repeated-payments) |
+| Y-on-Y Growth Rate | Write a query to calculate the year-on-year growth rate for the total spend of each product, grouping the results by product ID. | Wayfair |  | [link](https://datalemur.com/questions/yoy-growth-rate) |
 
 
 # Data Lemur - Medium Challenges
