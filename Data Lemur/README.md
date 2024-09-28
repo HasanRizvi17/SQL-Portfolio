@@ -5,30 +5,30 @@
 
 | **Challenge Name**         | **Description**                         |    **Company**        | **Link to Solution** | **Link to Question** |
 |----------------------------|-----------------------------------------|-----------------------|----------------------|----------------------|
-| Active User Retention |  | Facebook |   |   |
-| Advertiser Status |  | Facebook |   |   |
-| Department vs. Company Salary |  | FAANG |   |   |
-| Median Google Search Frequency |  | Google |   |   |
-| Server Utilization Time |  | Amazon |   |   |
-| 3-Topping Pizzas |  | McKinsey |   |   |
-| Repeated Payments |  | Stripe |   |   |
-| Y-on-Y Growth Rate |  | Wayfair |   |   |
+| Active User Retention |  | Facebook |  | [link](https://datalemur.com/questions/user-retention) |
+| Advertiser Status |  | Facebook |  | [link](https://datalemur.com/questions/updated-status) |
+| Department vs. Company Salary |  | FAANG |  | [link](https://datalemur.com/questions/sql-department-company-salary-comparison) |
+| Median Google Search Frequency |  | Google |  | [link](https://datalemur.com/questions/median-search-freq) |
+| Server Utilization Time |  | Amazon |  | [link](https://datalemur.com/questions/total-utilization-time) |
+| 3-Topping Pizzas |  | McKinsey |  | [link](https://datalemur.com/questions/pizzas-topping-cost) |
+| Repeated Payments |  | Stripe |  | [link](https://datalemur.com/questions/repeated-payments) |
+| Y-on-Y Growth Rate |  | Wayfair |  | [link](https://datalemur.com/questions/yoy-growth-rate) |
 
 
 # Data Lemur - Medium Challenges
 
 | **Challenge Name**         | **Description**                         |    **Company**        | **Link to Solution** | **Link to Question** |
 |----------------------------|-----------------------------------------|-----------------------|----------------------|----------------------|
-| Card Launch Success |  | Facebook |   |   |
-| Compressed Mode |  | Facebook |   |   |
-| Highest Grossing Items |  | Facebook |   |   |
-| Odd and Even Measurements |  | Facebook |   |   |
-| Seconf Highest Salary |  | Facebook |   |   |
-| Sending vs. Opening Snaps |  | Facebook |   |   |
-| Signup Activation Rate |  | Facebook |   |   |
-| Supercloud Customer |  | Facebook |   |   |
-| Top Three Salaries |  | Facebook |   |   |
-| Tweets' Rolling Averages |  | Facebook |   |   |
-| User's Third Transaction |  | Facebook |   |   |
+| Card Launch Success |  | Facebook |  | link |
+| Compressed Mode |  | Facebook |  | link |
+| Highest Grossing Items |  | Facebook |  | link |
+| Odd and Even Measurements |  | Facebook |  | link |
+| Seconf Highest Salary |  | Facebook |   | link |
+| Sending vs. Opening Snaps |  | Facebook |  | link |
+| Signup Activation Rate |  | Facebook |  | link |
+| Supercloud Customer |  | Facebook |  | link |
+| Top Three Salaries |  | Facebook |  | link |
+| Tweets' Rolling Averages |  | Facebook |  | link |
+| User's Third Transaction |  | Facebook |  | link |
 
 
