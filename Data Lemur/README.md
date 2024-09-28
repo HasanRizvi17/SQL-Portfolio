@@ -1,7 +1,7 @@
 💡 _Data Lemur is a platform offering practice challenges based on real interview questions from FAANG and other leading tech companies._
 
 
-# Data Lemur - Hard Challenges
+# Data Lemur - Hard Difficulty Challenges
 
 | **Challenge Name**         | **Description**                         |    **Company**        | **Link to Solution** | **Link to Question** |
 |----------------------------|-----------------------------------------|-----------------------|----------------------|----------------------|
@@ -15,7 +15,7 @@
 | Y-on-Y Growth Rate | Write a query to calculate the year-on-year growth rate for the total spend of each product, grouping the results by product ID. | Wayfair |  | [link](https://datalemur.com/questions/yoy-growth-rate) |
 
 
-# Data Lemur - Medium Challenges
+# Data Lemur - Medium Difficulty Challenges
 
 | **Challenge Name**         | **Description**                         |    **Company**        | **Link to Solution** | **Link to Question** |
 |----------------------------|-----------------------------------------|-----------------------|----------------------|----------------------|
